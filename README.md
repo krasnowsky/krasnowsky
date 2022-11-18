@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [YouTube API Application](https://github.com/krasnowsky/wk-youtube-application)
 
-- 🌱 I’m currently learning **Rust and Python**
+- 🌱 I’m currently learning **Python and Django**
 
 - 👨‍💻 All of my projects are available at [to_be_added](to_be_added)
 

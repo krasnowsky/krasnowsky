@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wojciech</h1>
 <h3 align="center">"If you put your mind to it you can accomplish anything"</h3>
 
-- 🔭 I’m currently working on [YouTube API Application](https://github.com/krasnowsky/wk-youtube-application)
+- 🔭 I’m currently working on [YouTube API Application](https://github.com/krasnowsky/OurTube)
 
 - 🌱 I’m currently learning **Python and Django**
 
